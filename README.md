@@ -1,2 +1,3 @@
 # Gate_of-_Babylon
-This repo  Stefan's Treasure of  collect of all useful knowledge from internet around the world
+This Repo is collection of computer science books and information
+use it study only
