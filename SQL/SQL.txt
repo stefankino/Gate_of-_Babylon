@@ -1,2 +1,0 @@
-SQL knowledge
-https://pdai.tech/md/db/sql-lan/sql-lan.html
